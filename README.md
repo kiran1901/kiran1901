@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/4ukiran4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4ukiran4u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiran s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran s" height="30" width="40" /></a>
+<a href="https://twitter.com/4uKiran4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4ukiran4u" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kiran-s-54803621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
